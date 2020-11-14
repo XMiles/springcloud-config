@@ -1,3 +1,2 @@
-spring:
-  application:
-    name:  application-test
+config:
+  info: "main branch,springcloud-config/config-test.yml version=1"
